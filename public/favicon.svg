@@ -1,0 +1,15 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <circle cx="12" cy="12" r="12" fill="url(#gradient)" />
+  <path 
+    d="M11.074 5.633c.32-.844 1.531-.844 1.852 0l1.07 2.734c.145.38.514.633.926.633h3.087c.94 0 1.35 1.17.611 1.743L16 13a.968.968 0 0 0-.322 1.092L16.678 17.695c.322.844-.721 1.552-1.44.998l-3.25-2.059a.959.959 0 0 0-1.102 0l-3.222 2.059c-.719.554-1.762-.154-1.44-.998l1-3.603A.968.968 0 0 0 7 13l-2.62-2.257C3.64 10.17 4.052 9 4.99 9h3.087c.384 0 .78-.253.925-.633l2.07-2.734Z" 
+    fill="white" 
+  />
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3d8daa" />
+      <stop offset="100%" stop-color="#2e9243" />
+    </linearGradient>
+  </defs>
+</svg>
+  
